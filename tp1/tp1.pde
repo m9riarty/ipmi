@@ -1,3 +1,9 @@
+/* tuve que volver a entregar porque olvidé aclarar mi nombre, comisión y legajo, perdón.
+
+Campos Salazar Florencia, comisión 5, 94790/0
+
+*/
+
 PImage tomatito;
 
 void setup (){
